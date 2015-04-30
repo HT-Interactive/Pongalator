@@ -3,15 +3,16 @@
   $by = "Jeff Moreland";
   $contact = "jeff@evose.com";
   $on = "24 Sep 2014";
-  $updated = "12 Nov 2014";
-  $version = "0.41";
+  $updated = "30 Apr 2015";
+  $version = "0.42";
 
 /* Change Log
-0.3	Added deuce feature to input winner score, otherwise winner defaults to score of 11
-	Now shows total points, points per game, and point total differential (need to make function for this)
-0.4   Results function added. Now shows results of all matches instead of just last one.	
-0.41  Historic matches can be hidden by clicking header. Graph changes from month results to all-time after clicking
-      Name changed from PongUlator to PongAlator
+0.3			Added deuce feature to input winner score, otherwise winner defaults to score of 11
+			Now shows total points, points per game, and point total differential (need to make function for this)
+0.4   		Results function added. Now shows results of all matches instead of just last one.	
+0.41  12 Nov 2014	Historic matches can be hidden by clicking header. Graph changes from month results to all-time after clicking
+      		Name changed from PongUlator to PongAlator
+0.42	30-Apr-2015	Configured github
 */
 
 // Load DB
