@@ -4,7 +4,7 @@
   $contact = "jeff@evose.com";
   $on = "24 Sep 2014";
   $updated = "30 Apr 2015";
-  $version = "0.42";
+  $version = "0.43";
 
 /* Change Log
 0.3			Added deuce feature to input winner score, otherwise winner defaults to score of 11
