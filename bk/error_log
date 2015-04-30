@@ -1,0 +1,176 @@
+[26-Sep-2014 18:21:05 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 181
+[26-Sep-2014 18:21:11 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 188
+[27-Sep-2014 09:02:21 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 181
+[27-Sep-2014 09:09:11 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 188
+[27-Sep-2014 09:14:02 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 188
+[03-Oct-2014 10:30:03 America/Denver] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home5/evosecom/public_html/pong/index.php on line 310
+[03-Oct-2014 10:30:33 America/Denver] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home5/evosecom/public_html/pong/index.php on line 310
+[03-Oct-2014 10:30:58 America/Denver] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home5/evosecom/public_html/pong/index.php on line 309
+[03-Oct-2014 10:31:59 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home5/evosecom/public_html/pong/index.php on line 284
+[03-Oct-2014 10:36:01 America/Denver] PHP Notice:  Undefined variable: pi_games_won in /home5/evosecom/public_html/pong/index.php on line 286
+[03-Oct-2014 10:37:03 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/index.php on line 285
+[03-Oct-2014 10:37:03 America/Denver] PHP Notice:  Undefined variable: pi_games_won in /home5/evosecom/public_html/pong/index.php on line 286
+[03-Oct-2014 10:37:03 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/index.php on line 287
+[03-Oct-2014 10:37:31 America/Denver] PHP Notice:  Undefined variable: pi_games_won in /home5/evosecom/public_html/pong/index.php on line 282
+[03-Oct-2014 10:45:56 America/Denver] PHP Notice:  Undefined variable: total_score in /home5/evosecom/public_html/pong/index.php on line 297
+[03-Oct-2014 11:15:03 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 236
+[03-Oct-2014 11:52:01 America/Denver] PHP Warning:  imageloadfont(): gd warning: one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 11:52:01 America/Denver] PHP Warning:  imageloadfont(): Error reading font, invalid font header in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 11:52:01 America/Denver] PHP Warning:  imageloadfont(): gd warning: one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 11:52:01 America/Denver] PHP Warning:  imageloadfont(): Error reading font, invalid font header in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 11:52:50 America/Denver] PHP Warning:  imageloadfont(): gd warning: one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 11:52:50 America/Denver] PHP Warning:  imageloadfont(): Error reading font, invalid font header in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 11:52:50 America/Denver] PHP Warning:  imageloadfont(): gd warning: one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 11:52:50 America/Denver] PHP Warning:  imageloadfont(): Error reading font, invalid font header in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 12:06:08 America/Denver] PHP Warning:  imageloadfont(): gd warning: one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 12:06:08 America/Denver] PHP Warning:  imageloadfont(): Error reading font, invalid font header in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 12:06:08 America/Denver] PHP Warning:  imageloadfont(): gd warning: one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 12:06:08 America/Denver] PHP Warning:  imageloadfont(): Error reading font, invalid font header in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 12:07:08 America/Denver] PHP Warning:  imageloadfont(): gd warning: one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 12:07:08 America/Denver] PHP Warning:  imageloadfont(): Error reading font, invalid font header in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 12:07:08 America/Denver] PHP Warning:  imageloadfont(): gd warning: one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 12:07:08 America/Denver] PHP Warning:  imageloadfont(): Error reading font, invalid font header in /home5/evosecom/public_html/pong/jpgraph/gd_image.inc.php on line 91
+[03-Oct-2014 12:09:47 America/Denver] PHP Fatal error:  Class 'UniversalTheme' not found in /home5/evosecom/public_html/pong/index.php on line 432
+[03-Oct-2014 12:10:33 America/Denver] PHP Fatal error:  Class 'UniversalTheme' not found in /home5/evosecom/public_html/pong/index.php on line 432
+[03-Oct-2014 12:13:20 America/Denver] PHP Fatal error:  Class 'Graph' not found in /home5/evosecom/public_html/pong/pong_track.php on line 12
+[03-Oct-2014 12:17:11 America/Denver] PHP Notice:  Undefined variable: total_score in /home5/evosecom/public_html/pong/pong_track.php on line 14
+[03-Oct-2014 12:19:49 America/Denver] PHP Notice:  Undefined variable: total_score in /home5/evosecom/public_html/pong/pong_track.php on line 15
+[03-Oct-2014 12:21:34 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home5/evosecom/public_html/pong/pong_track.php on line 65
+[03-Oct-2014 12:21:57 America/Denver] PHP Notice:  Undefined variable: total_score in /home5/evosecom/public_html/pong/pong_track.php on line 15
+[03-Oct-2014 12:27:50 America/Denver] PHP Parse error:  syntax error, unexpected '$graph' (T_VARIABLE) in /home5/evosecom/public_html/pong/pong_track.php on line 65
+[03-Oct-2014 12:33:27 America/Denver] PHP Fatal error:  Call to undefined method Axis::HideLabel() in /home5/evosecom/public_html/pong/pong_track.php on line 48
+[10-Oct-2014 19:03:47 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[10-Oct-2014 19:48:19 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[12-Oct-2014 19:06:42 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[12-Oct-2014 19:53:06 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[13-Oct-2014 18:43:32 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[19-Oct-2014 16:29:41 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[19-Oct-2014 16:37:27 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[19-Oct-2014 17:20:35 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[24-Oct-2014 17:16:27 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[24-Oct-2014 18:08:03 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[24-Oct-2014 18:57:03 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 237
+[25-Oct-2014 08:09:49 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/index.php on line 255
+[25-Oct-2014 08:09:50 America/Denver] PHP Notice:  Undefined variable: match_ids in /home5/evosecom/public_html/pong/index.php on line 259
+[25-Oct-2014 08:28:05 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home5/evosecom/public_html/pong/index.php on line 446
+[25-Oct-2014 08:33:56 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/index.php on line 281
+[25-Oct-2014 08:33:56 America/Denver] PHP Warning:  current() expects parameter 1 to be array, null given in /home5/evosecom/public_html/pong/index.php on line 288
+[25-Oct-2014 08:33:56 America/Denver] PHP Warning:  next() expects parameter 1 to be array, null given in /home5/evosecom/public_html/pong/index.php on line 290
+[25-Oct-2014 08:46:20 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home5/evosecom/public_html/pong/index.php on line 43
+[25-Oct-2014 08:47:21 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 22
+[25-Oct-2014 08:47:21 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 22
+[25-Oct-2014 08:47:21 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 23
+[25-Oct-2014 08:47:21 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 26
+[25-Oct-2014 08:47:21 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 26
+[25-Oct-2014 08:47:21 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 27
+[25-Oct-2014 08:47:21 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 31
+[25-Oct-2014 08:47:21 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 31
+[25-Oct-2014 08:47:21 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 32
+[25-Oct-2014 08:47:21 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 35
+[25-Oct-2014 08:47:21 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 35
+[25-Oct-2014 08:47:21 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 36
+[25-Oct-2014 08:47:21 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 41
+[25-Oct-2014 08:48:58 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 22
+[25-Oct-2014 08:48:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 22
+[25-Oct-2014 08:48:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 23
+[25-Oct-2014 08:48:58 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 26
+[25-Oct-2014 08:48:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 26
+[25-Oct-2014 08:48:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 27
+[25-Oct-2014 08:48:58 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 31
+[25-Oct-2014 08:48:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 31
+[25-Oct-2014 08:48:58 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 32
+[25-Oct-2014 08:48:58 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 35
+[25-Oct-2014 08:48:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 35
+[25-Oct-2014 08:48:58 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 36
+[25-Oct-2014 08:48:58 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 41
+[25-Oct-2014 08:49:37 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 22
+[25-Oct-2014 08:49:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 22
+[25-Oct-2014 08:49:37 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 23
+[25-Oct-2014 08:49:37 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 26
+[25-Oct-2014 08:49:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 26
+[25-Oct-2014 08:49:37 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 27
+[25-Oct-2014 08:49:37 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 31
+[25-Oct-2014 08:49:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 31
+[25-Oct-2014 08:49:37 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 32
+[25-Oct-2014 08:49:37 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 35
+[25-Oct-2014 08:49:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 35
+[25-Oct-2014 08:49:37 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 36
+[25-Oct-2014 08:49:37 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 41
+[25-Oct-2014 08:49:40 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 22
+[25-Oct-2014 08:49:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 22
+[25-Oct-2014 08:49:40 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 23
+[25-Oct-2014 08:49:40 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 26
+[25-Oct-2014 08:49:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 26
+[25-Oct-2014 08:49:40 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 27
+[25-Oct-2014 08:49:40 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 31
+[25-Oct-2014 08:49:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 31
+[25-Oct-2014 08:49:40 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 32
+[25-Oct-2014 08:49:40 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 35
+[25-Oct-2014 08:49:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 35
+[25-Oct-2014 08:49:40 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 36
+[25-Oct-2014 08:49:40 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 41
+[25-Oct-2014 08:50:37 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 23
+[25-Oct-2014 08:50:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 23
+[25-Oct-2014 08:50:37 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 24
+[25-Oct-2014 08:50:37 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 27
+[25-Oct-2014 08:50:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 27
+[25-Oct-2014 08:50:37 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 28
+[25-Oct-2014 08:50:37 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 32
+[25-Oct-2014 08:50:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 32
+[25-Oct-2014 08:50:37 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 33
+[25-Oct-2014 08:50:37 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 36
+[25-Oct-2014 08:50:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 36
+[25-Oct-2014 08:50:37 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 37
+[25-Oct-2014 08:50:37 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 42
+[25-Oct-2014 08:51:25 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 23
+[25-Oct-2014 08:51:25 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 23
+[25-Oct-2014 08:51:25 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 24
+[25-Oct-2014 08:51:25 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 27
+[25-Oct-2014 08:51:25 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 27
+[25-Oct-2014 08:51:25 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 28
+[25-Oct-2014 08:51:25 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 32
+[25-Oct-2014 08:51:25 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 32
+[25-Oct-2014 08:51:25 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 33
+[25-Oct-2014 08:51:25 America/Denver] PHP Notice:  Undefined variable: db in /home5/evosecom/public_html/pong/index.php on line 36
+[25-Oct-2014 08:51:25 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/evosecom/public_html/pong/index.php on line 36
+[25-Oct-2014 08:51:25 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home5/evosecom/public_html/pong/index.php on line 37
+[25-Oct-2014 08:51:25 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 42
+[25-Oct-2014 08:55:04 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home5/evosecom/public_html/pong/index.php on line 44
+[25-Oct-2014 08:55:18 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home5/evosecom/public_html/pong/index.php on line 44
+[25-Oct-2014 09:01:31 America/Denver] PHP Notice:  Undefined variable: p1_games_won in /home5/evosecom/public_html/pong/index.php on line 340
+[25-Oct-2014 09:01:31 America/Denver] PHP Warning:  Division by zero in /home5/evosecom/public_html/pong/index.php on line 352
+[25-Oct-2014 09:15:29 America/Denver] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home5/evosecom/public_html/pong/index.php on line 318
+[25-Oct-2014 09:16:07 America/Denver] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home5/evosecom/public_html/pong/index.php on line 318
+[25-Oct-2014 09:17:52 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home5/evosecom/public_html/pong/index.php on line 322
+[25-Oct-2014 09:20:55 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home5/evosecom/public_html/pong/index.php on line 322
+[25-Oct-2014 09:22:36 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home5/evosecom/public_html/pong/index.php on line 322
+[25-Oct-2014 09:23:35 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home5/evosecom/public_html/pong/index.php on line 322
+[25-Oct-2014 09:26:14 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home5/evosecom/public_html/pong/index.php on line 322
+[25-Oct-2014 09:26:45 America/Denver] PHP Parse error:  syntax error, unexpected 'wins' (T_STRING), expecting ',' or ';' in /home5/evosecom/public_html/pong/index.php on line 321
+[25-Oct-2014 09:29:50 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home5/evosecom/public_html/pong/index.php on line 329
+[25-Oct-2014 09:31:22 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home5/evosecom/public_html/pong/index.php on line 329
+[25-Oct-2014 09:40:50 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/pong_track.php on line 32
+[25-Oct-2014 09:40:50 America/Denver] PHP Notice:  Undefined variable: p2_scores in /home5/evosecom/public_html/pong/pong_track.php on line 70
+[25-Oct-2014 09:42:07 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/pong_track.php on line 32
+[25-Oct-2014 09:42:07 America/Denver] PHP Notice:  Undefined variable: p2_scores in /home5/evosecom/public_html/pong/pong_track.php on line 70
+[25-Oct-2014 09:42:58 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/pong_track.php on line 32
+[25-Oct-2014 09:42:58 America/Denver] PHP Notice:  Undefined variable: p2_scores in /home5/evosecom/public_html/pong/pong_track.php on line 70
+[25-Oct-2014 09:45:26 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/pong_track.php on line 20
+[25-Oct-2014 09:45:26 America/Denver] PHP Notice:  Undefined variable: p1_scores in /home5/evosecom/public_html/pong/pong_track.php on line 64
+[25-Oct-2014 09:46:28 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/pong_track.php on line 32
+[25-Oct-2014 09:46:28 America/Denver] PHP Notice:  Undefined variable: p2_scores in /home5/evosecom/public_html/pong/pong_track.php on line 70
+[25-Oct-2014 09:49:33 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/pong_track.php on line 20
+[25-Oct-2014 09:49:33 America/Denver] PHP Notice:  Undefined variable: p1_scores in /home5/evosecom/public_html/pong/pong_track.php on line 64
+[25-Oct-2014 09:51:20 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/pong_track.php on line 20
+[25-Oct-2014 09:51:20 America/Denver] PHP Notice:  Undefined variable: p1_scores in /home5/evosecom/public_html/pong/pong_track.php on line 64
+[25-Oct-2014 09:53:08 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/evosecom/public_html/pong/pong_track.php on line 21
+[25-Oct-2014 09:53:08 America/Denver] PHP Notice:  Undefined variable: p1_scores in /home5/evosecom/public_html/pong/pong_track.php on line 66
+[25-Oct-2014 10:00:34 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/evosecom/public_html/pong/pong_track.php on line 28
