@@ -4,7 +4,7 @@
   $contact = "jeff@evose.com";
   $on = "24 Sep 2014";
   $updated = "30 Apr 2015";
-  $version = "0.421";
+  $version = "0.422";
 
 /* Change Log
 0.3			Added deuce feature to input winner score, otherwise winner defaults to score of 11
@@ -13,7 +13,7 @@
 0.41  12 Nov 2014	Historic matches can be hidden by clicking header. Graph changes from month results to all-time after clicking
       		Name changed from PongUlator to PongAlator
 0.42	30-Apr-2015	Configured github.
-0.421	30-Apr-2014	Deploy script test.	
+0.422	30-Apr-2014	Deploy script test no passphrase.	
 */
 
 // Load DB
