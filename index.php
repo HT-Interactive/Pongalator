@@ -12,7 +12,8 @@
 0.4   		Results function added. Now shows results of all matches instead of just last one.	
 0.41  12 Nov 2014	Historic matches can be hidden by clicking header. Graph changes from month results to all-time after clicking
       		Name changed from PongUlator to PongAlator
-0.42	30-Apr-2015	Configured github
+0.42	30-Apr-2015	Configured github.
+0.421	30-Apr-2014	Deploy script test.	
 */
 
 // Load DB
